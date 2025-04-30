@@ -15,6 +15,6 @@ permalink: /pubs/
 
 - *Washington Times*, “Investigation: China’s DeepSeek Finds America Losing Edge in Tech Talent,” April 23, 2025. [Read article](https://www.washingtontimes.com/news/2025/apr/23/investigation-chinas-deepseek-finds-america-losing-edge-tech-talent/)
 
-- *South China Morning Post*, “Could Chinese AI Scientists Threaten US Tech Dominance? Study by DeepSeek Team Gives Clues,” April 29, 2025. [Read article](https://www.scmp.com/news/china/science/article/3308558/could-chinese-ai-scientists-threaten-us-tech-dominance-study-deepseek-team-gives-clues?module=top_story&pgtype=homepage)
+- *South China Morning Post*, “Could Chinese AI Scientists Threaten US Tech Dominance? Study of DeepSeek Team Gives Clues,” April 29, 2025. [Read article](https://www.scmp.com/news/china/science/article/3308558/could-chinese-ai-scientists-threaten-us-tech-dominance-study-deepseek-team-gives-clues?module=top_story&pgtype=homepage)
 
     
