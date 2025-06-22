@@ -19,7 +19,7 @@ permalink: /projects/
 -  I'm also developing a qualitative study that explores how users navigate and differentiate between ephemeral and fixed content (e.g., Stories vs. Posts), and how these practices reflect or shape their self-concept over time. Data is being collected through semi-structured interviews with a diverse sample of adult social media users, and will be analyzed using thematic analysis.  
 
 - I've also spent the last year and a half conducting a mixed-methods historical analysis of AIDS discourses on Usenet in the early 1980s. I began this project in a media history course in Winter 2024 and expanded it in a Spring 2024 social networks course, where I began to specifically investigate the impact of influential authors on community dynamics and evolution. This project has evolved to examine the role of decentralized communication infrastructures in shaping community knowledge and health practices during a crisis. 
-  - Through this, built a publicly available [metadata scraping script](https://github.com/evjohnston/usenetscraping_public) for researchers working with the GoogleGroups Usenet archive.
+  - Through this, I built a publicly available [metadata scraping script](https://github.com/evjohnston/usenetscraping_public) for researchers working with the GoogleGroups Usenet archive.
 
 
 ## Idea Dump
