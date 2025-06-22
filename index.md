@@ -1,10 +1,4 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
 ---
 
@@ -40,5 +34,5 @@ layout: home
 
 <p><strong>And for a laugh...</strong></p>   
 
-<p> <strong>#</strong> Find out which subatomic particle you are with this <a href="http://particlepersona.emersonjohnston.org/">cute persona quiz</a> I made for my girlfriend (who's a physicist if that wasn't clear). </p>
+<p> <strong>#</strong> Find out which subatomic particle you are with this <a href="http://particlepersona.emersonjohnston.org/">cute persona quiz</a> I made for my girlfriend (who's a particle physicist if that wasn't clear). </p>
 <p> <strong>#</strong> Watch my <a href="https://www.youtube.com/watch?v=nwY5JI-0pmo&list=PPSV">2024 N.O.B.E.L. (not official but exceedingly ludacris) theories night presentation</a> about the birth lottery and overlooked factors in academic success.</p>
