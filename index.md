@@ -13,7 +13,7 @@ layout: home
 </p>
 
 <p style="text-align: justify;">
-&nbsp;&nbsp;&nbsp;&nbsp;Hi! I'm <strong>Emerson Johnston</strong> <em>(she/her)</em>, a technology policy researcher at Stanford University. I currently work as a research assistant at the <a href = "https://www.hoover.org/research-teams/technology-policy-accelerator">Hoover Institution’s Technology Policy Accelerator</a>, where I contribute to the <a href= "https://setr.stanford.edu/">Stanford Emerging Technology Review</a> and lead research on emerging technologies and their implications for national security. I’m also an affiliate of the <a href"https://sml.stanford.edu/">Stanford Social Media Lab</a>, where my research investigates social media users’ interactions with, and understandings of, content-recommendation algorithms and other platform-based technological affordances.
+&nbsp;&nbsp;&nbsp;&nbsp;Hi! I'm <strong>Emerson Johnston</strong> <em>(she/her)</em>, a technology policy researcher at Stanford University. I currently work as a research assistant at the <a href = "https://www.hoover.org/research-teams/technology-policy-accelerator">Hoover Institution’s Technology Policy Accelerator</a>, where I contribute to the <a href= "https://setr.stanford.edu/">Stanford Emerging Technology Review</a> and lead research on emerging technologies and their implications for national security. I’m also an affiliate of the <a href="https://sml.stanford.edu/">Stanford Social Media Lab</a>, where my research investigates social media users’ interactions with, and understandings of, content-recommendation algorithms and other platform-based technological affordances.
 </p>
 
 <p style="text-align: justify;">
