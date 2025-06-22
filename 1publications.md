@@ -11,6 +11,10 @@ permalink: /pubs/
 
 > *This white paper investigates the emergence of DeepSeek AI, a Chinese research firm whose rapid advancements in large language models have challenged dominant assumptions about American leadership in frontier AI. In it, we analyze the institutional trajectories and academic records of the over 200 researchers involved in DeepSeek’s foundational work. Our findings reveal a self-sustaining pipeline of highly skilled researchers largely developed within China, with limited long-term reliance on Western institutions. With this in mind, we argue that U.S. policymaking must address not just compute and infrastructure disparities, but the broader erosion of America’s global talent advantage in artificial intelligence.*
 
+**Emerson Johnston** and Amy Zegart, “Policy Implications of the DeepSeek AI Talent Base.” *Stanford Institute for Human-Centered Artificial Intelligence (HAI)*, May 2025. [Read here](https://hai.stanford.edu/policy/policy-implications-of-deepseek-ai-talent-base)
+
+> *A companion piece to the Hoover Institution white paper, this article distills the core policy takeaways for U.S. decision-makers. It emphasizes the strategic relevance of talent development pipelines, the shifting landscape of global AI expertise, and the importance of long-term investment in domestic research ecosystems.*
+
 ## In the Press
 
 - *Washington Times*, “Investigation: China’s DeepSeek Finds America Losing Edge in Tech Talent,” April 23, 2025. [Read article](https://www.washingtontimes.com/news/2025/apr/23/investigation-chinas-deepseek-finds-america-losing-edge-tech-talent/)
