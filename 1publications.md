@@ -21,4 +21,8 @@ permalink: /pubs/
 
 - *South China Morning Post*, “Could Chinese AI Scientists Threaten US Tech Dominance? Study of DeepSeek Team Gives Clues,” April 29, 2025. [Read article](https://www.scmp.com/news/china/science/article/3308558/could-chinese-ai-scientists-threaten-us-tech-dominance-study-deepseek-team-gives-clues?module=top_story&pgtype=homepage)
 
-    
+- *TipRanks*, “U.S. Tech Risks Losing AI ‘Brains Race’ With China as American Dream Fades,” April 30, 2025. [Read article](https://www.tipranks.com/news/u-s-tech-risks-losing-ai-brains-race-with-china-as-american-dream-fades)
+
+- *Chosun Biz*, “54% of DeepSeek AI Researchers Trained Only in China Raises Concern for US Technology,” May 2, 2025. [Read article](https://biz.chosun.com/en/en-it/2025/05/02/XQOIURH2ZFB3FML7K4KMBDB4WE/)
+
+
