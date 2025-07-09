@@ -15,16 +15,16 @@ permalink: /pubs/
 
 > *A companion piece to the Hoover Institution white paper, this article distills the core policy takeaways for U.S. decision-makers. It emphasizes the strategic relevance of talent development pipelines, the shifting landscape of global AI expertise, and the importance of long-term investment in domestic research ecosystems.*
 
-<br>
+## In the Press
 
-<div style="background-color:#f2f2f2; padding: 16px; border-radius: 8px;">
-<strong>In the Press</strong>
-<ul>
-  <li><a href="https://www.washingtontimes.com/news/2025/apr/23/investigation-chinas-deepseek-finds-america-losing-edge-tech-talent/" target="_blank">Washington Times</a></li>
-  <li><a href="https://www.scmp.com/news/china/science/article/3308558/could-chinese-ai-scientists-threaten-us-tech-dominance-study-deepseek-team-gives-clues?module=top_story&pgtype=homepage" target="_blank">South China Morning Post</a></li>
-  <li><a href="https://www.tipranks.com/news/u-s-tech-risks-losing-ai-brains-race-with-china-as-american-dream-fades" target="_blank">TipRanks</a></li>
-  <li><a href="https://biz.chosun.com/en/en-it/2025/05/02/XQOIURH2ZFB3FML7K4KMBDB4WE/" target="_blank">Chosun Biz</a></li>
-  <li><a href="https://the-decoder.com/us-think-tank-warns-of-reverse-brain-drain-in-chinas-ai-sector/" target="_blank">The Decoder</a></li>
-  <li><a href="https://www.bloomberg.com/opinion/articles/2025-07-09/can-china-compete-with-the-us-in-the-ai-talent-war" target="_blank">Bloomberg Opinion</a></li>
-</ul>
-</div>
+- *Washington Times*, “Investigation: China’s DeepSeek Finds America Losing Edge in Tech Talent,” April 23, 2025. [Read article](https://www.washingtontimes.com/news/2025/apr/23/investigation-chinas-deepseek-finds-america-losing-edge-tech-talent/)
+
+- *South China Morning Post*, “Could Chinese AI Scientists Threaten US Tech Dominance? Study of DeepSeek Team Gives Clues,” April 29, 2025. [Read article](https://www.scmp.com/news/china/science/article/3308558/could-chinese-ai-scientists-threaten-us-tech-dominance-study-deepseek-team-gives-clues?module=top_story&pgtype=homepage)
+
+- *TipRanks*, “U.S. Tech Risks Losing AI ‘Brains Race’ With China as American Dream Fades,” April 30, 2025. [Read article](https://www.tipranks.com/news/u-s-tech-risks-losing-ai-brains-race-with-china-as-american-dream-fades)
+
+- *Chosun Biz*, “54% of DeepSeek AI Researchers Trained Only in China Raises Concern for US Technology,” May 2, 2025. [Read article](https://biz.chosun.com/en/en-it/2025/05/02/XQOIURH2ZFB3FML7K4KMBDB4WE/)
+
+- *The Decoder*, “US Think Tank Warns of Reverse Brain Drain in China’s AI Sector,” May 6, 2025. [Read article](https://the-decoder.com/us-think-tank-warns-of-reverse-brain-drain-in-chinas-ai-sector/)
+
+- *Bloomberg Opinion*, “Can China Compete in the AI Talent War?” July 9, 2025. [Read article](https://www.bloomberg.com/opinion/articles/2025-07-09/can-china-compete-with-the-us-in-the-ai-talent-war)
