@@ -28,3 +28,5 @@ permalink: /pubs/
 - *The Decoder*, “US Think Tank Warns of Reverse Brain Drain in China’s AI Sector,” May 6, 2025. [Read article](https://the-decoder.com/us-think-tank-warns-of-reverse-brain-drain-in-chinas-ai-sector/)
 
 - *Bloomberg Opinion*, “Can China Compete in the AI Talent War?” July 9, 2025. [Read article](https://www.bloomberg.com/opinion/articles/2025-07-09/can-china-compete-with-the-us-in-the-ai-talent-war)
+
+- *Wall Street Journal*, “How China Is Girding for an AI Battle With the U.S.,” July 28, 2025. [Read article](https://www.wsj.com/tech/ai/how-china-is-girding-for-an-ai-battle-with-the-u-s-5b23af51?st=ZekNp)
