@@ -25,6 +25,8 @@ permalink: /pubs/
 
 - *Chosun Biz*, “54% of DeepSeek AI Researchers Trained Only in China Raises Concern for US Technology,” May 2, 2025. [Read article](https://biz.chosun.com/en/en-it/2025/05/02/XQOIURH2ZFB3FML7K4KMBDB4WE/)
 
+- *Semafor* "Reports: US losing edge in AI talent pool," May 2, 2025. [Read article](https://www.semafor.com/article/05/02/2025/us-losing-edge-in-ai-talent-pool-reports-say)
+
 - *The Decoder*, “US Think Tank Warns of Reverse Brain Drain in China’s AI Sector,” May 6, 2025. [Read article](https://the-decoder.com/us-think-tank-warns-of-reverse-brain-drain-in-chinas-ai-sector/)
 
 - *Bloomberg Opinion*, “Can China Compete in the AI Talent War?” July 9, 2025. [Read article](https://www.bloomberg.com/opinion/articles/2025-07-09/can-china-compete-with-the-us-in-the-ai-talent-war)
