@@ -1,4 +1,3 @@
-source: home     # 👈 ADD THIS AT THE TOP
 baseurl: "/home" # 👈 Still keep this
 
 title: emerson johnston
