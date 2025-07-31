@@ -20,6 +20,9 @@ plugins:
 sass:
   quiet_deps: true
   silence_deprecations: [import]
+  load_paths:
+    - _sass
+    - assets/css
 
 minima:
   # Minima skin selection. Available skins are:
