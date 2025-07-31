@@ -28,6 +28,7 @@ sass:
 minima:
   skin: classic
   nav_pages:
+    - home/about.md 
     - home/1publications.md
     - home/2projects.md
     - home/3interests.md
