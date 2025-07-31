@@ -8,11 +8,16 @@ author:
 description: >
   sociologist, historian, ethnographer, and writer
 
-theme: minima
+# Remove this line if it exists:
+# theme: minima
+
+# Add this instead:
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Include the home directory
 include:
