@@ -1,5 +1,5 @@
 url: "https://www.emersonjohnston.org"
-baseurl: "/home"
+baseurl: ""
 
 title: emerson johnston
 author:
@@ -10,8 +10,6 @@ description: >
   sociologist, historian, ethnographer, and writer
 
 theme: minima
-
-baseurl: "/home"  # 👈 IMPORTANT so portfolio pages are served from /home/
 
 plugins:
   - jekyll-feed
