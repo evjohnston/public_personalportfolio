@@ -1,4 +1,5 @@
-baseurl: "/home" # 👈 Still keep this
+url: "https://www.emersonjohnston.org"
+baseurl: "/home"
 
 title: emerson johnston
 author:
