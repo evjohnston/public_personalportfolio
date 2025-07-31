@@ -1,7 +1,7 @@
 ---
 layout: home
-title: home
-permalink: /home/
+title: about
+permalink: /about/
 ---
 
 <p align="center" title="Emerson Johnston Headshot">
